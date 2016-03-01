@@ -1,7 +1,5 @@
-# [翻译] React 让你不爽了么？
-这是一个让你重新快乐的流程图
-
-- [原文](https://github.com/gaearon/react-makes-you-sad)
+# [[译] React 让你不爽了么？](https://github.com/gaearon/react-makes-you-sad)
+这是一个让你重拾快乐的流程图！
 
 ## <a href='https://cdn.rawgit.com/wyvernnot/react-makes-you-sad/master/fatigue.svg' target='_blank'>在新标签页打开</a>
 
