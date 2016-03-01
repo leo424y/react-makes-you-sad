@@ -1,9 +1,11 @@
-# react-makes-you-sad
-Here’s a flowchart to make you happy again!
+# [翻译] React 让你不爽了么？
+这是一个让你重新快乐的流程图
 
-## <a href='https://cdn.rawgit.com/gaearon/react-makes-you-sad/1377b6a6cdc644adfea6bf238f06c75d33ed6f1e/fatigue.svg' target='_blank'>Open in a new tab</a>
+- [原文](https://github.com/gaearon/react-makes-you-sad)
 
-<img src='https://cdn.rawgit.com/gaearon/react-makes-you-sad/1377b6a6cdc644adfea6bf238f06c75d33ed6f1e/fatigue.svg'>
+## <a href='https://cdn.rawgit.com/wyvernnot/react-makes-you-sad/master/fatigue.svg' target='_blank'>在新标签页打开</a>
+
+<img src='https://cdn.rawgit.com/wyvernnot/react-makes-you-sad/master/fatigue.svg'>
 
 ## Credits
 
