@@ -32,12 +32,13 @@
 ## 如何贡献
 
 1. 推荐使用 https://atom.io/packages/graphviz-preview 来编辑 `.dot` 文件
-2. 安装 `dot`, 它是 [Graphviz](http://www.graphviz.org/) 的一部分.
+2. 从 http://www.graphviz.org/Download.php 下载 `dot`
+3. 安装 `dot`, 它是 [Graphviz](http://www.graphviz.org/) 的一部分.
   * 在装了 [Homebrew](http://www.brew.sh) 的 OSX 系统 上, 只需执行 `brew install graphviz`.
   * 其他的系统搜索安装包 `graphviz`.
   * 你也可以从 [Graphviz downloads page](http://www.graphviz.org/Download.php) 获得可安装文件
-3. 使用命令 `dot -Tsvg fatigue.dot > fatigue.svg` 来生成 `.svg` 文件
-4. 发一个 PR!
+4. 使用命令 `dot -Tsvg fatigue.dot > fatigue.svg` 来生成 `.svg` 文件
+5. 发一个 PR!
 
 ## 译文
 
@@ -48,6 +49,7 @@
 - [简体中文](https://github.com/wyvernnot/react-makes-you-sad)
 - [한국어](https://github.com/ehrudxo/react-makes-you-sad)
 - [日本語](https://github.com/kuy/react-makes-you-sad)
+- [Русский](https://github.com/Sacret/react-makes-you-sad)
 
 ## 开源协议
 
