@@ -6,9 +6,9 @@
 <img src='https://cdn.rawgit.com/wyvernnot/react-makes-you-sad/master/fatigue.svg'>
 
 ## 致謝
-
+
 本文受到了 https://github.com/petehunt/react-howto 的啟發
-
+
 ## 連結
 
 * 如果你已經被 React 的各種生態系統繞暈了, 不知從哪兒下手, 讀讀這篇指南

@@ -12,13 +12,13 @@
 <!-- unhappy -->
 <g id="node1" class="node"><title>unhappy</title>
 <path fill="none" stroke="black" d="M433,-2512C433,-2512 349,-2512 349,-2512 343,-2512 337,-2506 337,-2500 337,-2500 337,-2488 337,-2488 337,-2482 343,-2476 349,-2476 349,-2476 433,-2476 433,-2476 439,-2476 445,-2482 445,-2488 445,-2488 445,-2500 445,-2500 445,-2506 439,-2512 433,-2512"/>
-<text text-anchor="middle" x="391" y="-2490.3" font-family="Times,serif" font-size="14.00">React 让你不爽</text>
+<text text-anchor="middle" x="391" y="-2490.3" font-family="Times,serif" font-size="14.00">React 讓你不爽</text>
 </g>
 <!-- are_you_using_react_boilerplates -->
 <g id="node2" class="node"><title>are_you_using_react_boilerplates</title>
 <polygon fill="none" stroke="black" points="391,-2438 232.5,-2400 391,-2362 549.5,-2400 391,-2438"/>
-<text text-anchor="middle" x="391" y="-2403.8" font-family="Times,serif" font-size="14.00">你是通过复制示例项目</text>
-<text text-anchor="middle" x="391" y="-2388.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;学习 React 么？</text>
+<text text-anchor="middle" x="391" y="-2403.8" font-family="Times,serif" font-size="14.00">你是通過複製示例項目</text>
+<text text-anchor="middle" x="391" y="-2388.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;學習 React 麼？</text>
 </g>
 <!-- unhappy&#45;&gt;are_you_using_react_boilerplates -->
 <g id="edge1" class="edge"><title>unhappy&#45;&gt;are_you_using_react_boilerplates</title>
@@ -28,16 +28,16 @@
 <!-- boilerplates_dont_teach -->
 <g id="node3" class="node"><title>boilerplates_dont_teach</title>
 <polygon fill="none" stroke="black" points="386,-2310 0,-2310 0,-2152 386,-2152 386,-2310"/>
-<text text-anchor="middle" x="193" y="-2294.8" font-family="Times,serif" font-size="14.00">跟着示例项目学 React 就好像在一家超棒的</text>
-<text text-anchor="middle" x="193" y="-2279.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;餐厅里通过点菜来学做饭一样。这压根没用。你得从基础</text>
-<text text-anchor="middle" x="193" y="-2264.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;学起，不要怕有所遗漏。这没有根据。人们之所以建立</text>
-<text text-anchor="middle" x="193" y="-2249.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;示例项目是为了展示他们所创造的、学到的，而不是为了</text>
-<text text-anchor="middle" x="193" y="-2234.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;帮助你学习。示例项目是为更有经验的人准备的，并且</text>
-<text text-anchor="middle" x="193" y="-2219.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;通常要比被承认的更具试验性。示例项目彼此竞争，为了</text>
-<text text-anchor="middle" x="193" y="-2204.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;获得更多的注意力往往有所夸大。如果你确实对 React</text>
-<text text-anchor="middle" x="193" y="-2189.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;感兴趣，你应该按照　Pete Hunt 的指南来学习:</text>
+<text text-anchor="middle" x="193" y="-2294.8" font-family="Times,serif" font-size="14.00">跟著示例項目學 React 就好像在一家超棒的</text>
+<text text-anchor="middle" x="193" y="-2279.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;餐廳裡通過點菜來學做飯一樣。這壓根沒用。你得從基礎</text>
+<text text-anchor="middle" x="193" y="-2264.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;學起，不要怕有所遺漏。這沒有根據。人們之所以建立</text>
+<text text-anchor="middle" x="193" y="-2249.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;示例項目是為了展示他們所創造的、學到的，而不是為了</text>
+<text text-anchor="middle" x="193" y="-2234.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;幫助你學習。示例項目是為更有經驗的人準備的，並且</text>
+<text text-anchor="middle" x="193" y="-2219.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;通常要比被承認的更具試驗性。示例項目彼此競爭，為了</text>
+<text text-anchor="middle" x="193" y="-2204.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;獲得更多的注意力往往有所誇大。如果你確實對 React</text>
+<text text-anchor="middle" x="193" y="-2189.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;感興趣，你應該按照　Pete Hunt 的指南來學習:</text>
 <text text-anchor="middle" x="193" y="-2174.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;https://github.com/petehunt/react&#45;howto.</text>
-<text text-anchor="middle" x="193" y="-2159.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;在你能自己建立示例项目前不要看网上的。</text>
+<text text-anchor="middle" x="193" y="-2159.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;在你能自己建立示例項目前不要看網上的。</text>
 </g>
 <!-- are_you_using_react_boilerplates&#45;&gt;boilerplates_dont_teach -->
 <g id="edge2" class="edge"><title>are_you_using_react_boilerplates&#45;&gt;boilerplates_dont_teach</title>
@@ -48,13 +48,13 @@
 <!-- steal_from_boilerplates -->
 <g id="node4" class="node"><title>steal_from_boilerplates</title>
 <polygon fill="none" stroke="black" points="775.5,-2295 404.5,-2295 404.5,-2167 775.5,-2167 775.5,-2295"/>
-<text text-anchor="middle" x="590" y="-2279.8" font-family="Times,serif" font-size="14.00">虽然示例项目对于学习它综合的各种技术</text>
-<text text-anchor="middle" x="590" y="-2264.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;不是一个很好的方法，但是当你掌握这里的每一项</text>
-<text text-anchor="middle" x="590" y="-2249.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;技术后，示例项目能够帮助你了解这些技术是如何</text>
-<text text-anchor="middle" x="590" y="-2234.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;协同工作的。这是发现新技术的好途径，但是不要</text>
-<text text-anchor="middle" x="590" y="-2219.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;觉得有使用的义务。不过也不要把示例项目束之高阁，</text>
-<text text-anchor="middle" x="590" y="-2204.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;只要记住示例项目是各种技巧的一锅烩，并不能</text>
-<text text-anchor="middle" x="590" y="-2189.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;被当做应用坚实的基础。</text>
+<text text-anchor="middle" x="590" y="-2279.8" font-family="Times,serif" font-size="14.00">雖然示例項目對於學習它綜合的各種技術</text>
+<text text-anchor="middle" x="590" y="-2264.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;不是一個很好的方法，但是當你掌握這裡的每一項</text>
+<text text-anchor="middle" x="590" y="-2249.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;技術後，示例項目能夠幫助你瞭解這些技術是如何</text>
+<text text-anchor="middle" x="590" y="-2234.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;協同工作的。這是發現新技術的好途徑，但是不要</text>
+<text text-anchor="middle" x="590" y="-2219.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;覺得有使用的義務。不過也不要把示例項目束之高閣，</text>
+<text text-anchor="middle" x="590" y="-2204.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;只要記住示例項目是各種技巧的一鍋燴，並不能</text>
+<text text-anchor="middle" x="590" y="-2189.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;被當做應用堅實的基礎。</text>
 <text text-anchor="middle" x="590" y="-2174.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;</text>
 </g>
 <!-- are_you_using_react_boilerplates&#45;&gt;steal_from_boilerplates -->
@@ -67,7 +67,7 @@
 <g id="node5" class="node"><title>are_you_using_flux</title>
 <polygon fill="none" stroke="black" points="438,-2114 280.5,-2076 438,-2038 595.5,-2076 438,-2114"/>
 <text text-anchor="middle" x="438" y="-2079.8" font-family="Times,serif" font-size="14.00">你在使用 Flux</text>
-<text text-anchor="middle" x="438" y="-2064.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;（或者 Redux 么）？</text>
+<text text-anchor="middle" x="438" y="-2064.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;（或者 Redux 麼）？</text>
 </g>
 <!-- boilerplates_dont_teach&#45;&gt;are_you_using_flux -->
 <g id="edge4" class="edge"><title>boilerplates_dont_teach&#45;&gt;are_you_using_flux</title>
@@ -83,7 +83,7 @@
 <g id="node6" class="node"><title>is_too_much_flux</title>
 <polygon fill="none" stroke="black" points="341,-1986 210,-1948 341,-1910 472,-1948 341,-1986"/>
 <text text-anchor="middle" x="341" y="-1951.8" font-family="Times,serif" font-size="14.00">它是不是增加了</text>
-<text text-anchor="middle" x="341" y="-1936.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;一堆无用代码？</text>
+<text text-anchor="middle" x="341" y="-1936.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;一堆無用程式碼？</text>
 </g>
 <!-- are_you_using_flux&#45;&gt;is_too_much_flux -->
 <g id="edge6" class="edge"><title>are_you_using_flux&#45;&gt;is_too_much_flux</title>
@@ -94,8 +94,8 @@
 <!-- is_not_enough_flux -->
 <g id="node7" class="node"><title>is_not_enough_flux</title>
 <polygon fill="none" stroke="black" points="692,-1986 490,-1948 692,-1910 894,-1948 692,-1986"/>
-<text text-anchor="middle" x="692" y="-1951.8" font-family="Times,serif" font-size="14.00">在组件依赖的顶端有没有一堆</text>
-<text text-anchor="middle" x="692" y="-1936.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;经常出 Bug 的状态组件?</text>
+<text text-anchor="middle" x="692" y="-1951.8" font-family="Times,serif" font-size="14.00">在元件依賴的頂端有沒有一堆</text>
+<text text-anchor="middle" x="692" y="-1936.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;經常出 Bug 的狀態元件?</text>
 </g>
 <!-- are_you_using_flux&#45;&gt;is_not_enough_flux -->
 <g id="edge7" class="edge"><title>are_you_using_flux&#45;&gt;is_not_enough_flux</title>
@@ -106,9 +106,9 @@
 <!-- remove_flux -->
 <g id="node8" class="node"><title>remove_flux</title>
 <polygon fill="none" stroke="black" points="446.25,-1857.5 153.75,-1857.5 153.75,-1804.5 446.25,-1804.5 446.25,-1857.5"/>
-<text text-anchor="middle" x="300" y="-1842.3" font-family="Times,serif" font-size="14.00">去掉 Flux 库。通过阅读官方文档</text>
-<text text-anchor="middle" x="300" y="-1827.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;&#160;“Thinking in React”，来体会用纯生的 React</text>
-<text text-anchor="middle" x="300" y="-1812.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;&#160;怎么建立一个结构良好的应用。</text>
+<text text-anchor="middle" x="300" y="-1842.3" font-family="Times,serif" font-size="14.00">去掉 Flux 庫。通過閱讀官方文件</text>
+<text text-anchor="middle" x="300" y="-1827.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;&#160;“Thinking in React”，來體會用純生的 React</text>
+<text text-anchor="middle" x="300" y="-1812.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;&#160;怎麼建立一個結構良好的應用。</text>
 </g>
 <!-- is_too_much_flux&#45;&gt;remove_flux -->
 <g id="edge8" class="edge"><title>is_too_much_flux&#45;&gt;remove_flux</title>
@@ -119,7 +119,7 @@
 <!-- are_you_using_bundler -->
 <g id="node9" class="node"><title>are_you_using_bundler</title>
 <polygon fill="none" stroke="black" points="508,-1766 299.5,-1728 508,-1690 716.5,-1728 508,-1766"/>
-<text text-anchor="middle" x="508" y="-1731.8" font-family="Times,serif" font-size="14.00">你在使用 JavaScript 打包工具么</text>
+<text text-anchor="middle" x="508" y="-1731.8" font-family="Times,serif" font-size="14.00">你在使用 JavaScript 打包工具麼</text>
 <text text-anchor="middle" x="508" y="-1716.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;(例如 Webpack, Browserify)?</text>
 </g>
 <!-- is_too_much_flux&#45;&gt;are_you_using_bundler -->
@@ -137,8 +137,8 @@
 <!-- add_flux -->
 <g id="node10" class="node"><title>add_flux</title>
 <polygon fill="none" stroke="black" points="868.25,-1850 567.75,-1850 567.75,-1812 868.25,-1812 868.25,-1850"/>
-<text text-anchor="middle" x="718" y="-1834.8" font-family="Times,serif" font-size="14.00">添加 Flux 库。它能够把组件间共享的</text>
-<text text-anchor="middle" x="718" y="-1819.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;状态转移到外部，并用一致的方式来更新。</text>
+<text text-anchor="middle" x="718" y="-1834.8" font-family="Times,serif" font-size="14.00">新增 Flux 庫。它能夠把元件間共享的</text>
+<text text-anchor="middle" x="718" y="-1819.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;狀態轉移到外部，並用一致的方式來更新。</text>
 </g>
 <!-- is_not_enough_flux&#45;&gt;add_flux -->
 <g id="edge10" class="edge"><title>is_not_enough_flux&#45;&gt;add_flux</title>
@@ -154,7 +154,7 @@
 <!-- are_you_working_on_production_app_with_bundler -->
 <g id="node11" class="node"><title>are_you_working_on_production_app_with_bundler</title>
 <polygon fill="none" stroke="black" points="405,-1638 227.025,-1620 405,-1602 582.975,-1620 405,-1638"/>
-<text text-anchor="middle" x="405" y="-1616.3" font-family="Times,serif" font-size="14.00">正在做一个要上线的项目么?</text>
+<text text-anchor="middle" x="405" y="-1616.3" font-family="Times,serif" font-size="14.00">正在做一個要上線的項目麼?</text>
 </g>
 <!-- are_you_using_bundler&#45;&gt;are_you_working_on_production_app_with_bundler -->
 <g id="edge14" class="edge"><title>are_you_using_bundler&#45;&gt;are_you_working_on_production_app_with_bundler</title>
@@ -165,7 +165,7 @@
 <!-- are_you_working_on_production_app_without_bundler -->
 <g id="node12" class="node"><title>are_you_working_on_production_app_without_bundler</title>
 <polygon fill="none" stroke="black" points="780,-1638 602.025,-1620 780,-1602 957.975,-1620 780,-1638"/>
-<text text-anchor="middle" x="780" y="-1616.3" font-family="Times,serif" font-size="14.00">正在做一个要上线的项目么?</text>
+<text text-anchor="middle" x="780" y="-1616.3" font-family="Times,serif" font-size="14.00">正在做一個要上線的項目麼?</text>
 </g>
 <!-- are_you_using_bundler&#45;&gt;are_you_working_on_production_app_without_bundler -->
 <g id="edge15" class="edge"><title>are_you_using_bundler&#45;&gt;are_you_working_on_production_app_without_bundler</title>
@@ -181,9 +181,9 @@
 <!-- do_you_know_es2015 -->
 <g id="node13" class="node"><title>do_you_know_es2015</title>
 <polygon fill="none" stroke="black" points="680,-1398 489,-1345 680,-1292 871,-1345 680,-1398"/>
-<text text-anchor="middle" x="680" y="-1356.3" font-family="Times,serif" font-size="14.00">你了解并且能够接受 ES2015</text>
-<text text-anchor="middle" x="680" y="-1341.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;的特性吗</text>
-<text text-anchor="middle" x="680" y="-1326.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;(比如 类和箭头函数)?</text>
+<text text-anchor="middle" x="680" y="-1356.3" font-family="Times,serif" font-size="14.00">你瞭解並且能夠接受 ES2015</text>
+<text text-anchor="middle" x="680" y="-1341.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;的特性嗎</text>
+<text text-anchor="middle" x="680" y="-1326.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;(比如 類和箭頭函數)?</text>
 </g>
 <!-- are_you_working_on_production_app_with_bundler&#45;&gt;do_you_know_es2015 -->
 <g id="edge16" class="edge"><title>are_you_working_on_production_app_with_bundler&#45;&gt;do_you_know_es2015</title>
@@ -194,12 +194,12 @@
 <!-- remove_bundler -->
 <g id="node14" class="node"><title>remove_bundler</title>
 <polygon fill="none" stroke="black" points="695.25,-1549.5 408.75,-1549.5 408.75,-1436.5 695.25,-1436.5 695.25,-1549.5"/>
-<text text-anchor="middle" x="552" y="-1534.3" font-family="Times,serif" font-size="14.00">如果你只是学习 React 没有必要</text>
-<text text-anchor="middle" x="552" y="-1519.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;使用打包工具。直接克隆这个项目</text>
+<text text-anchor="middle" x="552" y="-1534.3" font-family="Times,serif" font-size="14.00">如果你只是學習 React 沒有必要</text>
+<text text-anchor="middle" x="552" y="-1519.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;使用打包工具。直接克隆這個項目</text>
 <text text-anchor="middle" x="552" y="-1504.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;https://github.com/jarsbe/react&#45;simple</text>
-<text text-anchor="middle" x="552" y="-1489.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;开始你的学习，还不用考虑打包的问题。</text>
-<text text-anchor="middle" x="552" y="-1474.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;你可以一直使用 &lt;Script&gt; 标签直到熟悉</text>
-<text text-anchor="middle" x="552" y="-1459.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;React，然后再了解一下模块系统和不同</text>
+<text text-anchor="middle" x="552" y="-1489.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;開始你的學習，還不用考慮打包的問題。</text>
+<text text-anchor="middle" x="552" y="-1474.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;你可以一直使用 &lt;Script&gt; 標籤直到熟悉</text>
+<text text-anchor="middle" x="552" y="-1459.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;React，然後再瞭解一下模組系統和不同</text>
 <text text-anchor="middle" x="552" y="-1444.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;的打包工具。</text>
 </g>
 <!-- are_you_working_on_production_app_with_bundler&#45;&gt;remove_bundler -->
@@ -217,11 +217,11 @@
 <!-- add_bundler -->
 <g id="node15" class="node"><title>add_bundler</title>
 <polygon fill="none" stroke="black" points="1052.25,-1534.5 765.75,-1534.5 765.75,-1451.5 1052.25,-1451.5 1052.25,-1534.5"/>
-<text text-anchor="middle" x="909" y="-1519.3" font-family="Times,serif" font-size="14.00">在构建步骤添加一个打包的过程</text>
-<text text-anchor="middle" x="909" y="-1504.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;能够很好的管理依赖并且更有效地传输</text>
-<text text-anchor="middle" x="909" y="-1489.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;JavaScript 代码。</text>
-<text text-anchor="middle" x="909" y="-1474.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;使用 Google Page Speed 来测量做得</text>
-<text text-anchor="middle" x="909" y="-1459.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;怎么样。别忘了压缩和环境化你的代码。</text>
+<text text-anchor="middle" x="909" y="-1519.3" font-family="Times,serif" font-size="14.00">在構建步驟新增一個打包的過程</text>
+<text text-anchor="middle" x="909" y="-1504.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;能夠很好的管理依賴並且更有效地傳輸</text>
+<text text-anchor="middle" x="909" y="-1489.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;JavaScript 程式碼。</text>
+<text text-anchor="middle" x="909" y="-1474.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;使用 Google Page Speed 來測量做得</text>
+<text text-anchor="middle" x="909" y="-1459.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;怎麼樣。別忘了壓縮和環境化你的程式碼。</text>
 </g>
 <!-- are_you_working_on_production_app_without_bundler&#45;&gt;add_bundler -->
 <g id="edge18" class="edge"><title>are_you_working_on_production_app_without_bundler&#45;&gt;add_bundler</title>
@@ -232,14 +232,14 @@
 <!-- use_es5 -->
 <g id="node16" class="node"><title>use_es5</title>
 <polygon fill="none" stroke="black" points="824,-1116 498,-1116 498,-988 824,-988 824,-1116"/>
-<text text-anchor="middle" x="661" y="-1100.8" font-family="Times,serif" font-size="14.00">先别用 ES2015。学习 React 不需要它。</text>
-<text text-anchor="middle" x="661" y="-1085.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;第三方库在文档里通常使用 ES2015 的语法，</text>
-<text text-anchor="middle" x="661" y="-1070.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;但是如果你只是学习 React 还用不到第三方库。</text>
-<text text-anchor="middle" x="661" y="-1055.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;当你想要更新你的 JavaScript 知识时：</text>
+<text text-anchor="middle" x="661" y="-1100.8" font-family="Times,serif" font-size="14.00">先別用 ES2015。學習 React 不需要它。</text>
+<text text-anchor="middle" x="661" y="-1085.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;第三方庫在文件裡通常使用 ES2015 的語法，</text>
+<text text-anchor="middle" x="661" y="-1070.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;但是如果你只是學習 React 還用不到第三方庫。</text>
+<text text-anchor="middle" x="661" y="-1055.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;當你想要更新你的 JavaScript 知識時：</text>
 <text text-anchor="middle" x="661" y="-1040.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;https://leanpub.com/understandinges6/read</text>
-<text text-anchor="middle" x="661" y="-1025.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;是超棒的指南.使用在线工具：</text>
+<text text-anchor="middle" x="661" y="-1025.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;是超棒的指南.使用線上工具：</text>
 <text text-anchor="middle" x="661" y="-1010.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;http://babeljs.io/repl</text>
-<text text-anchor="middle" x="661" y="-995.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;来验证你的各种假设。</text>
+<text text-anchor="middle" x="661" y="-995.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;來驗證你的各種假設。</text>
 </g>
 <!-- do_you_know_es2015&#45;&gt;use_es5 -->
 <g id="edge22" class="edge"><title>do_you_know_es2015&#45;&gt;use_es5</title>
@@ -250,9 +250,9 @@
 <!-- are_you_using_dangerous_features -->
 <g id="node17" class="node"><title>are_you_using_dangerous_features</title>
 <polygon fill="none" stroke="black" points="862,-1240 689,-1187 862,-1134 1035,-1187 862,-1240"/>
-<text text-anchor="middle" x="862" y="-1198.3" font-family="Times,serif" font-size="14.00">你在使用一些没有加入到</text>
-<text text-anchor="middle" x="862" y="-1183.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;ES2015 的试验特性吗</text>
-<text text-anchor="middle" x="862" y="-1168.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;(例如 装饰器)?</text>
+<text text-anchor="middle" x="862" y="-1198.3" font-family="Times,serif" font-size="14.00">你在使用一些沒有加入到</text>
+<text text-anchor="middle" x="862" y="-1183.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;ES2015 的試驗特性嗎</text>
+<text text-anchor="middle" x="862" y="-1168.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;(例如 裝飾器)?</text>
 </g>
 <!-- do_you_know_es2015&#45;&gt;are_you_using_dangerous_features -->
 <g id="edge23" class="edge"><title>do_you_know_es2015&#45;&gt;are_you_using_dangerous_features</title>
@@ -273,8 +273,8 @@
 <!-- do_you_update_packages_asap -->
 <g id="node18" class="node"><title>do_you_update_packages_asap</title>
 <polygon fill="none" stroke="black" points="868,-738 709.5,-700 868,-662 1026.5,-700 868,-738"/>
-<text text-anchor="middle" x="868" y="-703.8" font-family="Times,serif" font-size="14.00">当依赖的库有重大版本</text>
-<text text-anchor="middle" x="868" y="-688.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;更新时你会跟上么？</text>
+<text text-anchor="middle" x="868" y="-703.8" font-family="Times,serif" font-size="14.00">當依賴的庫有重大版本</text>
+<text text-anchor="middle" x="868" y="-688.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;更新時你會跟上麼？</text>
 </g>
 <!-- use_es5&#45;&gt;do_you_update_packages_asap -->
 <g id="edge24" class="edge"><title>use_es5&#45;&gt;do_you_update_packages_asap</title>
@@ -290,9 +290,9 @@
 <!-- can_you_spend_days_on_your_tooling -->
 <g id="node19" class="node"><title>can_you_spend_days_on_your_tooling</title>
 <polygon fill="none" stroke="black" points="1109,-970 867.5,-917 1109,-864 1350.5,-917 1109,-970"/>
-<text text-anchor="middle" x="1109" y="-928.3" font-family="Times,serif" font-size="14.00">您能每隔几周就花上几天时间</text>
-<text text-anchor="middle" x="1109" y="-913.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;来修复工具链导致的 Bug，不兼容</text>
-<text text-anchor="middle" x="1109" y="-898.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;和标准的变动么？</text>
+<text text-anchor="middle" x="1109" y="-928.3" font-family="Times,serif" font-size="14.00">您能每隔幾周就花上幾天時間</text>
+<text text-anchor="middle" x="1109" y="-913.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;來修復工具鏈導致的 Bug，不相容</text>
+<text text-anchor="middle" x="1109" y="-898.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;和標準的變動麼？</text>
 </g>
 <!-- are_you_using_dangerous_features&#45;&gt;can_you_spend_days_on_your_tooling -->
 <g id="edge25" class="edge"><title>are_you_using_dangerous_features&#45;&gt;can_you_spend_days_on_your_tooling</title>
@@ -303,36 +303,36 @@
 <!-- give_it_two_months -->
 <g id="node21" class="node"><title>give_it_two_months</title>
 <polygon fill="none" stroke="black" points="934.25,-610 609.75,-610 609.75,-482 934.25,-482 934.25,-610"/>
-<text text-anchor="middle" x="772" y="-594.8" font-family="Times,serif" font-size="14.00">除非是 React 这种每次发布前经过严格测试的库，</text>
-<text text-anchor="middle" x="772" y="-579.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;否则你应该让更新的速度慢下来。</text>
-<text text-anchor="middle" x="772" y="-564.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;你可以在分支里尝试依赖库的新版本，</text>
-<text text-anchor="middle" x="772" y="-549.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;直到社区发现和修复了绝大部分的问题。</text>
-<text text-anchor="middle" x="772" y="-534.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;不要因为怕被落下就做决定。</text>
-<text text-anchor="middle" x="772" y="-519.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;要查找旧版本的文档，别忘了查看 Github 上</text>
-<text text-anchor="middle" x="772" y="-504.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;带 Tag 的发布版本，比如</text>
+<text text-anchor="middle" x="772" y="-594.8" font-family="Times,serif" font-size="14.00">除非是 React 這種每次釋出前經過嚴格測試的庫，</text>
+<text text-anchor="middle" x="772" y="-579.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;否則你應該讓更新的速度慢下來。</text>
+<text text-anchor="middle" x="772" y="-564.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;你可以在分支裡嘗試依賴庫的新版本，</text>
+<text text-anchor="middle" x="772" y="-549.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;直到社羣發現和修復了絕大部分的問題。</text>
+<text text-anchor="middle" x="772" y="-534.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;不要因為怕被落下就做決定。</text>
+<text text-anchor="middle" x="772" y="-519.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;要查詢舊版本的文件，別忘了檢視 Github 上</text>
+<text text-anchor="middle" x="772" y="-504.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;帶 Tag 的釋出版本，比如</text>
 <text text-anchor="middle" x="772" y="-489.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;https://github.com/reactjs/react&#45;router/tree/0.13.x/doc</text>
 </g>
 <!-- do_you_update_packages_asap&#45;&gt;give_it_two_months -->
 <g id="edge30" class="edge"><title>do_you_update_packages_asap&#45;&gt;give_it_two_months</title>
 <path fill="none" stroke="black" d="M847.641,-666.765C838.783,-652.739 828.019,-635.697 817.424,-618.921"/>
 <polygon fill="black" stroke="black" points="820.208,-616.775 811.909,-610.189 814.29,-620.513 820.208,-616.775"/>
-<text text-anchor="middle" x="838.5" y="-632.3" font-family="Times,serif" font-size="14.00">会</text>
+<text text-anchor="middle" x="838.5" y="-632.3" font-family="Times,serif" font-size="14.00">會</text>
 </g>
 <!-- consider_updating_react -->
 <g id="node22" class="node"><title>consider_updating_react</title>
 <polygon fill="none" stroke="black" points="1283,-595 953,-595 953,-497 1283,-497 1283,-595"/>
-<text text-anchor="middle" x="1118" y="-579.8" font-family="Times,serif" font-size="14.00">这是个好决定。</text>
-<text text-anchor="middle" x="1118" y="-564.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;不过我们还是鼓励你在 React 新版本出来的时候</text>
-<text text-anchor="middle" x="1118" y="-549.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;（在分支里）尝试它。与社区模块不同，React</text>
-<text text-anchor="middle" x="1118" y="-534.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;经过了 Facebook 的严格测试。</text>
-<text text-anchor="middle" x="1118" y="-519.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;要留意发布日志，因为它们通常连接到能够自动</text>
-<text text-anchor="middle" x="1118" y="-504.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;化一部分迁移过程的 codemods。</text>
+<text text-anchor="middle" x="1118" y="-579.8" font-family="Times,serif" font-size="14.00">這是個好決定。</text>
+<text text-anchor="middle" x="1118" y="-564.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;不過我們還是鼓勵你在 React 新版本出來的時候</text>
+<text text-anchor="middle" x="1118" y="-549.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;（在分支裡）嘗試它。與社羣模組不同，React</text>
+<text text-anchor="middle" x="1118" y="-534.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;經過了 Facebook 的嚴格測試。</text>
+<text text-anchor="middle" x="1118" y="-519.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;要留意釋出日誌，因為它們通常連線到能夠自動</text>
+<text text-anchor="middle" x="1118" y="-504.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;化一部分遷移過程的 codemods。</text>
 </g>
 <!-- do_you_update_packages_asap&#45;&gt;consider_updating_react -->
 <g id="edge31" class="edge"><title>do_you_update_packages_asap&#45;&gt;consider_updating_react</title>
 <path fill="none" stroke="black" d="M911.833,-672.35C944.514,-652.479 990.237,-624.68 1030.32,-600.308"/>
 <polygon fill="black" stroke="black" points="1032.32,-603.189 1039.05,-595.003 1028.68,-597.208 1032.32,-603.189"/>
-<text text-anchor="middle" x="992.5" y="-632.3" font-family="Times,serif" font-size="14.00">不会</text>
+<text text-anchor="middle" x="992.5" y="-632.3" font-family="Times,serif" font-size="14.00">不會</text>
 </g>
 <!-- can_you_spend_days_on_your_tooling&#45;&gt;do_you_update_packages_asap -->
 <g id="edge27" class="edge"><title>can_you_spend_days_on_your_tooling&#45;&gt;do_you_update_packages_asap</title>
@@ -343,7 +343,7 @@
 <!-- stick_to_es2015 -->
 <g id="node20" class="node"><title>stick_to_es2015</title>
 <polygon fill="none" stroke="black" points="1223.25,-812 936.75,-812 936.75,-776 1223.25,-776 1223.25,-812"/>
-<text text-anchor="middle" x="1080" y="-790.3" font-family="Times,serif" font-size="14.00">坚持只用 ES2015，JSX 和属性专递操作符。</text>
+<text text-anchor="middle" x="1080" y="-790.3" font-family="Times,serif" font-size="14.00">堅持只用 ES2015，JSX 和屬性專遞操作符。</text>
 </g>
 <!-- can_you_spend_days_on_your_tooling&#45;&gt;stick_to_es2015 -->
 <g id="edge28" class="edge"><title>can_you_spend_days_on_your_tooling&#45;&gt;stick_to_es2015</title>
@@ -359,7 +359,7 @@
 <!-- are_you_still_sad -->
 <g id="node23" class="node"><title>are_you_still_sad</title>
 <polygon fill="none" stroke="black" points="984,-444 891.747,-426 984,-408 1076.25,-426 984,-444"/>
-<text text-anchor="middle" x="984" y="-422.3" font-family="Times,serif" font-size="14.00">你还不爽么？</text>
+<text text-anchor="middle" x="984" y="-422.3" font-family="Times,serif" font-size="14.00">你還不爽麼？</text>
 </g>
 <!-- give_it_two_months&#45;&gt;are_you_still_sad -->
 <g id="edge32" class="edge"><title>give_it_two_months&#45;&gt;are_you_still_sad</title>
@@ -374,11 +374,11 @@
 <!-- rant -->
 <g id="node24" class="node"><title>rant</title>
 <polygon fill="none" stroke="black" points="992,-355.5 718,-355.5 718,-226.5 992,-226.5 992,-355.5"/>
-<text text-anchor="middle" x="855" y="-324.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;把你遇到的问题写成有建设性的博客，</text>
-<text text-anchor="middle" x="855" y="-309.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;避免人身攻击。</text>
-<text text-anchor="middle" x="855" y="-294.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;有礼貌。</text>
-<text text-anchor="middle" x="855" y="-279.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;帮助社区来寻找解决方案。</text>
-<text text-anchor="middle" x="855" y="-264.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;考虑一下其它更符合你的需求的技术栈</text>
+<text text-anchor="middle" x="855" y="-324.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;把你遇到的問題寫成有建設性的部落格，</text>
+<text text-anchor="middle" x="855" y="-309.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;避免人身攻擊。</text>
+<text text-anchor="middle" x="855" y="-294.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;有禮貌。</text>
+<text text-anchor="middle" x="855" y="-279.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;幫助社羣來尋找解決方案。</text>
+<text text-anchor="middle" x="855" y="-264.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;考慮一下其它更符合你的需求的技術棧</text>
 <text text-anchor="middle" x="855" y="-249.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;（比如 Ember）。</text>
 <text text-anchor="middle" x="855" y="-234.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;</text>
 </g>
@@ -391,7 +391,7 @@
 <!-- happy -->
 <g id="node25" class="node"><title>happy</title>
 <polygon fill="none" stroke="black" points="1117,-188 839,-188 839,-152 1117,-152 1117,-188"/>
-<text text-anchor="middle" x="978" y="-166.3" font-family="Times,serif" font-size="14.00">React 让你爽歪歪！又或者至少不再不爽。</text>
+<text text-anchor="middle" x="978" y="-166.3" font-family="Times,serif" font-size="14.00">React 讓你爽歪歪！又或者至少不再不爽。</text>
 </g>
 <!-- are_you_still_sad&#45;&gt;happy -->
 <g id="edge35" class="edge"><title>are_you_still_sad&#45;&gt;happy</title>
@@ -407,11 +407,11 @@
 <!-- share -->
 <g id="node26" class="node"><title>share</title>
 <path fill="none" stroke="black" d="M1121,-113.5C1121,-113.5 835,-113.5 835,-113.5 829,-113.5 823,-107.5 823,-101.5 823,-101.5 823,-12.5 823,-12.5 823,-6.5 829,-0.5 835,-0.5 835,-0.5 1121,-0.5 1121,-0.5 1127,-0.5 1133,-6.5 1133,-12.5 1133,-12.5 1133,-101.5 1133,-101.5 1133,-107.5 1127,-113.5 1121,-113.5"/>
-<text text-anchor="middle" x="978" y="-98.3" font-family="Times,serif" font-size="14.00">分享这个流程图</text>
+<text text-anchor="middle" x="978" y="-98.3" font-family="Times,serif" font-size="14.00">分享這個流程圖</text>
 <text text-anchor="middle" x="978" y="-83.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;https://github.com/gaearon/react&#45;makes&#45;you&#45;sad</text>
-<text text-anchor="middle" x="978" y="-68.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;基于和启发</text>
+<text text-anchor="middle" x="978" y="-68.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;基於和啟發</text>
 <text text-anchor="middle" x="978" y="-53.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;https://github.com/petehunt/react&#45;howto</text>
-<text text-anchor="middle" x="978" y="-38.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;中文翻译</text>
+<text text-anchor="middle" x="978" y="-38.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;中文翻譯</text>
 <text text-anchor="middle" x="978" y="-23.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;https://github.com/wyvernnot/react&#45;makes&#45;you&#45;sad</text>
 <text text-anchor="middle" x="978" y="-8.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;</text>
 </g>
